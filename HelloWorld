@@ -1,0 +1,4 @@
+def print_some_thing():
+    print('Hello world from a function')
+
+print_some_thing()
